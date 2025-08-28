@@ -26,8 +26,6 @@ coverage/
 .nyc_output/
 
 # Environment files
-.env
-.env.*
 !.env.example
 !.env.sample
 
@@ -44,3 +42,4 @@ Thumbs.db
 
 # Misc
 *.bak
+config.bat
